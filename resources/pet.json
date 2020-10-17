@@ -1,0 +1,14 @@
+{
+  "id" : 345123,
+  "category" : {
+    "id" : 29247,
+    "name" : "Maura"
+  },
+  "name" : "Cow_Marya",
+  "photoUrls" : [ "http://some_random_url_of_pic" ],
+  "tags" : [ {
+    "id" : 66364,
+    "name" : "Jay"
+  } ],
+  "status" : "available"
+}
