@@ -6,6 +6,6 @@
 		<classes>
 			<class name="com.api.tests.TestDELETEPet" />
 		</classes>
-	</test>
+	</test> 
 	
 </suite>
